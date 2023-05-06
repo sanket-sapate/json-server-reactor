@@ -1,7 +1,7 @@
 {
   "departments":{
     "chemical":{
-      "3d-model":[
+      "model3d":[
         {
           "title":"CSTR (Continous Stirred Tank Reactor)",
           "link":"https://prod.spline.design/XsvLOy7BkpCY23aI/scene.splinecode",
